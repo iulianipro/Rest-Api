@@ -1,5 +1,3 @@
-Certainly! Here's an example of a C# function that creates a simple REST API using ASP.NET Core:
-
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
